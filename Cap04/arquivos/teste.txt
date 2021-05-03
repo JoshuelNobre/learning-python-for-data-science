@@ -1,0 +1,3 @@
+Olá estudante, esse arquivo foi feito com jupyter notebook.
+É bem interessante pois podemos fazer varias linhas.
+blablabla
